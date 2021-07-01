@@ -1,0 +1,7 @@
+
+server:
+  port: 9999
+  context-path: /tescil #bu alan ana urli belirler /services' den kurtarýr
+
+cxf:
+  path: /                 #bu alan ana urli belirler
